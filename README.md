@@ -39,27 +39,35 @@
   * > [Laboratorio](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Project%20Design%20Doc_Miranda_Valtierra_y_Balderas_Zamora.pdf)
   * > [Desafío](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/tree/master/Leccion01_Challenge)
   * > [Prueba](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Evidencias_Examen.docx)
+  * > [Video Reto](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Videos%20y%20Lab2/Reto_1_Soluci%C3%B3n.mp4)
+  
 * Lección 2
   * > [Tutorial](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/tree/master/Leccion_02)
   * > [Laboratorio](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Videos%20y%20Lab2/Miranda_Valtierra_Balderas_Zamora_V1.0%20-%20Lab_2.unitypackage)
   * > [Desafío](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/tree/master/Leccion02_Challenge)
   * > [Prueba](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Evidencias_Examen.docx)
+  * > [Video Reto](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Videos%20y%20Lab2/Reto2.mp4)
+  
 * Lección 3
   * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
+  * > Video Reto
+  
 * Lección 4
   * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
-  
+  * > Video Reto
+ 
 * Lección 5
   * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
+  * > Video Reto
   
 * VideoJuego
 
