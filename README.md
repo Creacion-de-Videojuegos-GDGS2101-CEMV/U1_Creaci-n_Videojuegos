@@ -1,11 +1,11 @@
-# Creación de Videojuegos - GDGS2101
+# Creación de Videojuegos - GDGS2101 - Miranda Valtierra Carlos Eduardo
 <p align="center">
     <img src="https://hardzone.es/app/uploads-hardzone.es/2019/01/Videojuegos-mandos.jpg" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="https://reponame/issues/new?template=bug.md">Reportar un bug</a>
     ·
     <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
@@ -49,11 +49,11 @@
   * > [Video Reto](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Videos%20y%20Lab2/Reto2.mp4)
   
 * Lección 3
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-  * > Video Reto
+  * > [Tutorial](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Leccion_03.unitypackage)
+  * > [Laboratorio](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Miranda_V2.0.unitypackage)
+  * > [Desafío](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Leccion_03_Challenge.unitypackage)
+  * > [Prueba](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Examen_Leccion03.jpg)
+  * > [Video Reto](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Leccion03_Challenge.mp4)
   
 * Lección 4
   * > Tutorial
@@ -63,11 +63,11 @@
   * > Video Reto
  
 * Lección 5
-  * > Tutorial
+  * > [Tutorial](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Leccion_05.unitypackage)
   * > Laboratorio
-  * > Desafío
-  * > Prueba
-  * > Video Reto
+  * > [Desafío](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Leccion_05_Challenge.unitypackage)
+  * > [Prueba](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Examen_Leccion05.jpg)
+  * > [Video Reto](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Leccion_05_Challenge.mp4)
   
 * VideoJuego
 
