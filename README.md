@@ -45,7 +45,7 @@
 4.	El player deberá seguir teniendo créditos para no dejar de jugar, por lo contrario, se acabará el juego.
 
 - Pantallas de Juego :
- <img src="campo.png" alt="Logo" width=1200 height=300>
+ <img src="https://github.com/MemoAllen/pruebaReadme/blob/master/campo.png?raw=true" alt="Logo" width=1200 height=300>
 
 
 ## Código Fuente
