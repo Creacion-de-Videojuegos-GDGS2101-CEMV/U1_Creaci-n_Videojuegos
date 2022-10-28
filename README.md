@@ -55,16 +55,9 @@
   * > [Prueba](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Examen_Leccion03.jpg)
   * > [Video Reto](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Leccion03_Challenge.mp4)
   
-* Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-  * > Video Reto
- 
 * Lección 5
   * > [Tutorial](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Leccion_05.unitypackage)
-  * > Laboratorio
+  * > [Laboratorio](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Leccion_05_Lab.unitypackage)
   * > [Desafío](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Leccion_05_Challenge.unitypackage)
   * > [Prueba](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Examen_Leccion05.jpg)
   * > [Video Reto](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Leccion_05_Challenge.mp4)
