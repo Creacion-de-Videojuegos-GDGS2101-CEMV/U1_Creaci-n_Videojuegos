@@ -66,7 +66,7 @@
   
 * Lección 3
   * > [Tutorial](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Leccion_03.unitypackage)
-  * > [Laboratorio](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Miranda_V2.0.unitypackage)
+  * > [Laboratorio](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Lab_03_Challenge.unitypackage)
   * > [Desafío](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Leccion_03_Challenge.unitypackage)
   * > [Prueba](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Examen_Leccion03.jpg)
   * > [Video Reto](https://github.com/Creacion-de-Videojuegos-GDGS2101-CEMV/U1_Creaci-n_Videojuegos/blob/master/Leccion03_Challenge.mp4)
