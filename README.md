@@ -25,7 +25,7 @@
 
 - Nombre del proyecto : CR7 Champion.
 
-- Objetivo : El jugador tendrá que pasar por una serie de niveles los cuales se desarrollaran dentro de un laberinto con la finalidad de que el personaje principal llegue a la copa del mundo y así logré ganar el juego, no sin antes mencionar que dentro del juego se encontraran demás personajes que impedirán que el usuario llegue al final, así como también podrá haber bonus para el jugador en todos los niveles. Finalmente, cada nivel tendrá una mayor exigencia para el jugador (el juego consta de 3 niveles).
+- Objetivo : El jugador tendrá que pasar por una serie de niveles los cuales se desarrollaran dentro de un laberinto con la finalidad de que el personaje principal(3 vidas) llegue a la copa del mundo y así logré ganar el juego.
 
 - Plataforma : PC
 - Género : Aventura
@@ -36,7 +36,7 @@
 
 - Escenario : El juego se desarrollará dentro de un escenario similar al de un campo de fútbol, además de ello, los bloques del laberinto serán bloques de concreto 
 
-- Historia : El juego relata la historia de un jugador de fútbol que lleva por nombre Cristiano Ronaldo que usa el dorsal 7 dentro de la selección de PT, su objetivo principal se centra en conseguir la copa del mundo, el cual es el único título que le falta dentro de sus filas, es por ello que esta en busca de ella para ser campeón y ser el mejor jugador del mundo. Messi ha robado la copa del mundo de Qatar 2022, se menciona que la ya mencionada ha sido llevado a una serie de laberintos los cuales tienen que ser pasados de manera exitosa para que dentro del último nivel el ganador se lleve la copa. Es por ello que CR7 al ver la situación se ofrece cruzar esos niveles a pesar del riesgo que conlleva, pasando por varios retos y bonificaciones para la obtención del título. ¿Logrará CR7 volver con la copa y así mismo ser campeón?
+- Historia : El juego relata la historia de un jugador de fútbol que lleva por nombre Cristiano Ronaldo que usa el dorsal 7 dentro de la selección de PT, su objetivo principal se centra en conseguir la copa del mundo, el cual es el único título que le falta dentro de sus filas, es por ello que esta en busca de ella para ser campeón y ser el mejor jugador del mundo. Messi ha robado la copa del mundo de Qatar 2022, se menciona que la ya mencionada ha sido llevado a una serie de laberintos los cuales tienen que ser pasados de manera exitosa para que dentro del último nivel el ganador se lleve la copa. Es por ello que CR7 al ver la situación se ofrece cruzar esos niveles a pesar del riesgo que conlleva, pasando por varios retos como el toparse con Messi y así mismo lograr esquivarlo además bonificaciones para la obtención del título. ¿Logrará CR7 volver con la copa y así mismo ser campeón?
 
 - Reglas de Juego : 
 1.	 El player deberá evitar los obstáculos esquivándolos, para poder llegar al final del nivel.
